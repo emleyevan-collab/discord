@@ -24,7 +24,7 @@ from datetime import datetime, timezone
 ODDS_API_KEY            = "d13f32352cfc65707bba470ccfa2a020"
 DISCORD_WEBHOOK_BETS    = "https://discord.com/api/webhooks/1474636223451496558/MVQLFJK7gFCJOFp_wStE7_bl0XEfE0F_jIkH6FCvq7hNxL4x7BwzrPr8ty4BPt8ilcV7"
 DISCORD_WEBHOOK_SUMMARY = "https://discord.com/api/webhooks/1474637690560577671/xhmyDlNrl7Beny9wv8cOuoZea--Bgp7Xi1ugnP0uMocW6lVeM_Z6gm-59jCFBEWossrI"
-DISCORD_WEBHOOK_GENERAL = "YOUR_GENERAL_CHANNEL_WEBHOOK"  # <- paste #general webhook here
+DISCORD_WEBHOOK_GENERAL = "https://discord.com/api/webhooks/1474646710088110181/lzBMWGP46QHKWi1DdKFVJ0f-lV-kMElFAYMHrU4ZhOrFTbo4LrXDoa89nfqjI2X_0nWc"  # <- paste #general webhook here
 
 BANKROLL          = 1000  # Your bankroll in dollars
 MIN_EV_PCT        = 4.8   # Minimum EV% to post
