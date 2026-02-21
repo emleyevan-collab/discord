@@ -520,6 +520,7 @@ def run_daily_summary():
 # ══════════════════════════════════════════════
 
 def main():
+  post_welcome()
     print("\n" + "="*55)
     print("  +EV DISCORD BETTING SYSTEM STARTED")
     print(f"  Min EV: {MIN_EV_PCT}% | Odds: {MIN_ODDS} to {MAX_ODDS}")
